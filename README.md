@@ -3,10 +3,13 @@ Projeto 1 de Machine Learning MC886 2021
 
 Disponível em https://classroom.google.com/u/2/c/Mjk2NDU2OTc2NzIw/a/MzA5MDk2MTI3OTc5/details
 
-Podemos utilizar os seguintes datasets para a atividade: 
+Utilizamos o seguinte dataset para a atividade como task: 
     * https://www.kaggle.com/arjunbhasin2013/ccdata
-    * https://www.kaggle.com/mariopasquato/star-cluster-simulations
-    * https://www.kaggle.com/saurograndi/airplane-crashes-since-1908
-    * https://www.kaggle.com/rainbowgirl/clustering-categorical-peoples-interests
+
+O projeto apresenta 2 datasets (cluster.dat e CC_GENERAL.csv) que serão utilizados como tasks dos modelos.
+
+O primeiro notebook (Kmeans.ipynb) apresenta o desenvolvimento e análise do método Kmeans.
+
+O segundo notebook (dbscan.ipynb) apresenta o desenvolvimento e análise do método DBSCAN, bem como uma comparação entre os 2 métodos não supervisionados desenvolvidos neste projeto.
 
 Desenvolvido por Felipe Arruda e Leonardo Koike

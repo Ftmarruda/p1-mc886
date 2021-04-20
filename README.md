@@ -3,6 +3,8 @@ Projeto 1 de Machine Learning MC886 2021
 
 Disponível em https://classroom.google.com/u/2/c/Mjk2NDU2OTc2NzIw/a/MzA5MDk2MTI3OTc5/details
 
+Desenvolvido em https://github.com/Ftmarruda/p1-mc886/
+
 Utilizamos o seguinte dataset para a atividade como task: 
     * https://www.kaggle.com/arjunbhasin2013/ccdata
 

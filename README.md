@@ -14,4 +14,4 @@ O primeiro notebook (Kmeans.ipynb) apresenta o desenvolvimento e análise do mé
 
 O segundo notebook (dbscan.ipynb) apresenta o desenvolvimento e análise do método DBSCAN, bem como uma comparação entre os 2 métodos não supervisionados desenvolvidos neste projeto.
 
-Desenvolvido por Felipe Arruda e Leonardo Koike
+Desenvolvido por Felipe Arruda (196862) e Leonardo Koike (201332)
